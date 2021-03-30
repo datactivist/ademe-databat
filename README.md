@@ -3,6 +3,8 @@
 
 Dans la lignée du hackaton Rénov’Action, le concours DataBât organisé par l’Ademe est l’occasion d’associer les forces et les talents pour agir sur la transition écologique, en exploitant les données de la rénovation énergétique des bâtiments.
 
+Toutes les informations sur le concours sont centralisées à cette adresse : https://databat.ademe.fr/
+
 Durant le concours, les participants s'appuyent sur les données pour faire émerger de nouveaux services qui proposeront une aide à la décision plus fine et favoriseront un changement de comportement à l’égard de la rénovation énergétique, pour les particuliers mais aussi pour les entreprises ou les acteurs publics.
 
 À la disposition des participants, un trésor de données : https://databat.koumoul.com/

@@ -14,7 +14,6 @@ Durant le concours, les participants s'appuyent sur les données pour faire éme
 
 # Le déroulé du concours 
 
-## PHASE 1 - IDEATION
 Convaincus que tout service commence d’abord avec une bonne idée, le concours Databât débute par une phase d’idéation lors de laquelle les participants sont invités à concevoir collectivement un service répondant à un des défis proposés par l’Ademe et ses partenaires.
 
 * Du 10/12/2020 au 24/12/2020 : constitution des équipes et rédaction des projets
@@ -22,8 +21,7 @@ Convaincus que tout service commence d’abord avec une bonne idée, le concours
 * 10/01/2021 : publication de la liste des équipes retenues.
 
 
-## PHASE 2 - PROTOTYPAGE ET DEVELOPPEMENT
-Pendant 3 mois, les équipes développent le service imaginé lors de la phase d’idéation. Des « épreuves de confort » bimensuelles les invitent à travailler des aspects essentiels dans la définition et la présentation de leur service, les préparant à la présentation finale de leur projet devant le jury.
+Ensuite, pendant 3 mois, les équipes ont développé le service imaginé lors de la phase d’idéation. Des « épreuves de confort » bimensuelles les invitent à travailler des aspects essentiels dans la définition et la présentation de leur service, les préparant à la présentation finale de leur projet devant le jury.
 
 * 11/01 au 24/01 : épreuve 1 - étude de marché
 * 25/01 au 14/02 : épreuve 2 - sélection des données et datavisualisations.

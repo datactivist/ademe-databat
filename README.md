@@ -183,8 +183,3 @@ Le jury aura à sa disposition une semaine avant la journée de restitution, les
   </tr>
 </table>
 
-# Evaluer les projets
-La gallerie qui suit vous permet de retrouver l'ensemble des productions de chaque équipe lors des différentes épreuves. Le bouton "évaluer un projet" vous renvoie vers le formulaire d'évaluation qui centralise les notes et prépare la délibération du jury. 
-⚠ Le mot de passe vous a été envoyé par mail. 
-
-<iframe class="airtable-embed" src="https://airtable.com/embed/shrMA0sIvkm7PzK7E?backgroundColor=blue" frameborder="0" onmousewheel="" width="100%" height="800" style="background: transparent; border: 1px solid #ccc;"></iframe>
